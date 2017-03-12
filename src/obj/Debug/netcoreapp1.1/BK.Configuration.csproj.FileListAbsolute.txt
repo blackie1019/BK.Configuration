@@ -4,3 +4,4 @@ E:\2.Repo\BK.Configuration\src\bin\Debug\netcoreapp1.1\BK.Configuration.pdb
 E:\2.Repo\BK.Configuration\src\obj\Debug\netcoreapp1.1\BK.Configuration.AssemblyInfo.cs
 E:\2.Repo\BK.Configuration\src\obj\Debug\netcoreapp1.1\BK.Configuration.dll
 E:\2.Repo\BK.Configuration\src\obj\Debug\netcoreapp1.1\BK.Configuration.pdb
+E:\2.Repo\BK.Configuration\src\obj\Debug\netcoreapp1.1\BK.Configuration.csprojResolveAssemblyReference.cache

@@ -8554,22 +8554,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2.Repo\\BK.Configuration\\test\\BK.Configuration.Test.csproj",
+      "projectUniqueName": "e:\\2.Repo\\BK.Configuration\\test\\BK.Configuration.Test.csproj",
       "projectName": "BK.Configuration.Test",
-      "projectPath": "E:\\2.Repo\\BK.Configuration\\test\\BK.Configuration.Test.csproj",
-      "outputPath": "E:\\2.Repo\\BK.Configuration\\test\\obj\\",
+      "projectPath": "e:\\2.Repo\\BK.Configuration\\test\\BK.Configuration.Test.csproj",
+      "outputPath": "e:\\2.Repo\\BK.Configuration\\test\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/BK.Configuration.Test.dll": "E:\\2.Repo\\BK.Configuration\\test\\bin\\placeholder\\netcoreapp1.1\\BK.Configuration.Test.dll"
+        "lib/netcoreapp1.1/BK.Configuration.Test.dll": "e:\\2.Repo\\BK.Configuration\\test\\bin\\placeholder\\netcoreapp1.1\\BK.Configuration.Test.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "E:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj": {
-              "projectPath": "E:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj"
+            "e:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj": {
+              "projectPath": "e:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj"
             }
           }
         }

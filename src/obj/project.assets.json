@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj",
+      "projectUniqueName": "e:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj",
       "projectName": "BK.Configuration",
-      "projectPath": "E:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj",
-      "outputPath": "E:\\2.Repo\\BK.Configuration\\src\\obj\\",
+      "projectPath": "e:\\2.Repo\\BK.Configuration\\src\\BK.Configuration.csproj",
+      "outputPath": "e:\\2.Repo\\BK.Configuration\\src\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/BK.Configuration.dll": "E:\\2.Repo\\BK.Configuration\\src\\bin\\placeholder\\netcoreapp1.1\\BK.Configuration.dll"
+        "lib/netcoreapp1.1/BK.Configuration.dll": "e:\\2.Repo\\BK.Configuration\\src\\bin\\placeholder\\netcoreapp1.1\\BK.Configuration.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
