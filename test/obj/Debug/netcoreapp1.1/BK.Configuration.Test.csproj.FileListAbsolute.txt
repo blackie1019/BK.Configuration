@@ -1,0 +1,13 @@
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.Test.deps.json
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.Test.runtimeconfig.json
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.Test.runtimeconfig.dev.json
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.Test.dll
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.Test.pdb
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.dll
+E:\2.Repo\BK.Configuration\test\bin\Debug\netcoreapp1.1\BK.Configuration.pdb
+E:\2.Repo\BK.Configuration\test\obj\Debug\netcoreapp1.1\BK.Configuration.Test.AssemblyInfo.cs
+E:\2.Repo\BK.Configuration\test\obj\Debug\netcoreapp1.1\BK.Configuration.Test.dll
+E:\2.Repo\BK.Configuration\test\obj\Debug\netcoreapp1.1\BK.Configuration.Test.pdb
